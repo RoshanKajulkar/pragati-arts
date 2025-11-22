@@ -1,14 +1,14 @@
 const products = [
   {
     id: 1,
-    name: "Samai Mat Swastik",
+    name: "Swastik Samai Mat",
     price: 179,
     desc: "12 x 12 inches (Pack of 2)",
     image: "/images/2.jpeg",
   },
   {
     id: 2,
-    name: "Samai Mat Swastik",
+    name: "Swastik Samai Mat",
     price: 179,
     desc: "12 x 12 inches (Pack of 2)",
     image: "/images/3.jpeg",
@@ -57,7 +57,7 @@ const products = [
   },
   {
     id: 9,
-    name: "Samai Mat Swastik Big",
+    name: "Swastik Samai Mat Big",
     price: 499,
     desc: "18 x 18 inches",
     image: "/images/10.jpeg",
