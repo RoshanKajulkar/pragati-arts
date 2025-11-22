@@ -36,14 +36,14 @@ const products = [
   },
   {
     id: 6,
-    name: "Umbra Pati",
+    name: "Umbra Patti",
     price: 149,
     desc: "36 x 4 inches  (Pack of 2)",
     image: "/images/8.jpeg",
   },
   {
     id: 7,
-    name: "Umbra Pati",
+    name: "Umbra Patti",
     price: 149,
     desc: "36 x 8 inches",
     image: "/images/9.jpeg",
