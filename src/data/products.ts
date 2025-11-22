@@ -1,20 +1,20 @@
 const products = [
   {
-    id: 2,
+    id: 1,
     name: "Samai Mat Swastik",
     price: 179,
     desc: "12 x 12 inches (Pack of 2)",
     image: "/images/2.jpeg",
   },
   {
-    id: 3,
+    id: 2,
     name: "Samai Mat Swastik",
     price: 179,
     desc: "12 x 12 inches (Pack of 2)",
     image: "/images/3.jpeg",
   },
   {
-    id: 1,
+    id: 3,
     name: "Rangoli Galicha",
     price: 499,
     desc: "24 x 24 inches",
@@ -49,21 +49,21 @@ const products = [
     image: "/images/9.jpeg",
   },
   {
-    id: 10,
+    id: 8,
     name: "Rangoli Galicha half",
     price: 299,
     desc: "24 x 12 inches",
     image: "/images/11.jpeg",
   },
   {
-    id: 7,
+    id: 9,
     name: "Samai Mat Swastik Big",
     price: 499,
     desc: "18 x 18 inches",
     image: "/images/10.jpeg",
   },
   {
-    id: 7,
+    id: 10,
     name: "Peacock Feather Diva Mat",
     price: 240,
     desc: "6 x 6 inches (Pack of 12)",
