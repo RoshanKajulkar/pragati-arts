@@ -58,7 +58,7 @@ const products = [
   {
     id: 9,
     name: "Chourang Asan",
-    price: 499,
+    price: 350,
     desc: "18 x 18 inches",
     image: "/images/10.jpeg",
   },
