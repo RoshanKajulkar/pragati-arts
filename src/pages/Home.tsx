@@ -35,9 +35,17 @@ function Home() {
                 <p className="text-gray-600 text-sm mb-2 line-clamp-2">
                   {item.desc}
                 </p>
-                <p className="text-indigo-700 font-bold text-lg">
-                  ₹{item.price}
-                </p>
+                <div className="space-y-0.5">
+                  {item.pricing.map((option) => (
+                    <p key={option.label} className="text-indigo-700 font-bold">
+                      ₹{option.price}
+                      <span className="text-gray-600 font-medium text-sm">
+                        {" "}
+                        {option.label}
+                      </span>
+                    </p>
+                  ))}
+                </div>
               </div>
             </Link>
           ))}
