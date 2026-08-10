@@ -145,7 +145,7 @@ const products = [
     pricing: [
       {
         quantity: 1,
-        price: 550,
+        price: 450,
         label: "",
       },
     ],
